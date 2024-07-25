@@ -44,10 +44,34 @@
     }
   ],
   "banner_slider": [
+	{
+      "banner_link": "https://fktr.in/JI57r6K",
+      "banner_title": "Flipkart Clearance Sale",
+      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/clearance.webp",
+      "open_in": "webview"
+    },
     {
-      "banner_link": "https://bit.ly/4b6YS6h",
-      "banner_title": "Ayurvedic Sugar-Forte Herbal",
-      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/042624103146sugar-forte.jpg",
+      "banner_link": "https://fktr.in/f4Zz9b4",
+      "banner_title": "Grooming & Wellness Sale",
+      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/electronics.webp",
+      "open_in": "webview"
+    },
+	{
+      "banner_link": "https://fktr.in/9wzzc0v",
+      "banner_title": "Rakhi Special Styles - From ₹99",
+      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/rakhi.webp",
+      "open_in": "webview"
+    },
+	{
+      "banner_link": "https://fktr.in/31bnf45",
+      "banner_title": "Min. 60% Off on Latest Trends",
+      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/fashion1.webp",
+      "open_in": "webview"
+    },
+	{
+      "banner_link": "https://fktr.in/sAF4rXH",
+      "banner_title": "Flipkart Computer Accessories",
+      "banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/banner/accessories.webp",
       "open_in": "webview"
     }
   ],
