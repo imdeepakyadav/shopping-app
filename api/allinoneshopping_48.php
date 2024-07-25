@@ -420,21 +420,28 @@
       "ad_unit": "ca-app-pub-3940256099942544/9257395921",
       "ad_type": "AppOpen",
       "ad_network": "admob",
-      "ad_priority": "0",
+      "ad_priority": "1",
       "ad_counter": ""
     },
     {
       "ad_unit": "ca-app-pub-3940256099942544/1033173712",
       "ad_type": "Interstitial",
       "ad_network": "admob",
-      "ad_priority": "0",
+      "ad_priority": "1",
       "ad_counter": "1"
     },
     {
       "ad_unit": "ca-app-pub-3940256099942544/2247696110",
       "ad_type": "Native",
       "ad_network": "admob",
-      "ad_priority": "0",
+      "ad_priority": "1",
+      "ad_counter": ""
+    },
+    {
+      "ad_unit": "ca-app-pub-3940256099942544/9214589741",
+      "ad_type": "Banner",
+      "ad_network": "admob",
+      "ad_priority": "1",
       "ad_counter": ""
     }
   ]
