@@ -1,15 +1,15 @@
 {
   "categories": [
     {
-      "category_link": "https://bitli.in/zjDxr0z",
-      "category_name": "Electronic",
-      "category_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/categories/030924055333electronics.webp",
-      "open_in": "webview"
-    },
-    {
       "category_link": "https://fktr.in/C10sA0r",
       "category_name": "Mobiles",
       "category_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/categories/030924060241mobiles.jpg",
+      "open_in": "webview"
+    },
+	{
+      "category_link": "https://bitli.in/zjDxr0z",
+      "category_name": "Electronic",
+      "category_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/categories/030924055333electronics.webp",
       "open_in": "webview"
     },
     {
@@ -77,16 +77,16 @@
   ],
   "stores": [
     {
-      "store_title": "Amazon",
-      "store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/stores/030724113611Amazon-512.webp",
-      "store_url": "https://bitli.in/4zrhtl8",
-      "store_open": "webview",
-      "store_offer_desc": "Upto 50% off"
-    },
-    {
       "store_title": "Flipkart",
       "store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/stores/0307241139171200x630wa.png",
       "store_url": "https://fktr.in/dATgh37",
+      "store_open": "webview",
+      "store_offer_desc": "Upto 50% off"
+    },
+	{
+      "store_title": "Amazon",
+      "store_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/stores/030724113611Amazon-512.webp",
+      "store_url": "https://bitli.in/4zrhtl8",
       "store_open": "webview",
       "store_offer_desc": "Upto 50% off"
     },
@@ -169,18 +169,18 @@
     }
   ],
   "electronic": [
+	{
+      "electronic_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/electronics/030824013018apple_iphone.jpg",
+      "electronic_name": "Iphone",
+      "electronic_url": "https://fktr.in/O1oKBYy",
+      "electronic_desc": "8% Off",
+      "open_in": "webview"
+    },
     {
       "electronic_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/electronics/television.jpg",
       "electronic_name": "Television",
       "electronic_url": "https://bitli.in/uk5WrsR",
       "electronic_desc": "Upto 50%Off",
-      "open_in": "webview"
-    },
-    {
-      "electronic_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/electronics/030824013018apple_iphone.jpg",
-      "electronic_name": "Iphone",
-      "electronic_url": "https://fktr.in/O1oKBYy",
-      "electronic_desc": "8% Off",
       "open_in": "webview"
     },
     {
