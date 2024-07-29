@@ -156,14 +156,14 @@
   ],
   "strip_banner": [
     {
-      "strip_banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/strip_banner/032124074126ajio-superseller-3902-1710959339.png",
-      "strip_banner_url": "https://ajiio.in/vqNrYZb",
+      "strip_banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/strip_banner/strip-banner1.png",
+      "strip_banner_url": "https://fktr.in/J85h7AG",
       "strip_banner_placement": "1",
       "open_in": "webview"
     },
     {
-      "strip_banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/strip_banner/032124075257flipkartstrip.png",
-      "strip_banner_url": "https://fktr.in/d64yvxe",
+      "strip_banner_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/strip_banner/strip-banner2.png",
+      "strip_banner_url": "https://bitli.in/pLEuDll",
       "strip_banner_placement": "2",
       "open_in": "webview"
     }
