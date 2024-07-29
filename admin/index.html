@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="sidebar">
+        <h2>Menu</h2>
+        <ul id="menuList">
+            <!-- Dynamic menu items will be added here -->
+        </ul>
+    </div>
+    <div class="main-content">
+        <div id="categories" class="content-section">
+            <h1>Categories</h1>
+            <table id="categoriesTable">
+                <thead>
+                    <tr>
+                        <th>Category Name</th>
+                        <th>Category Image</th>
+                        <th>Category Link</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Dynamic content goes here -->
+                </tbody>
+            </table>
+            <button onclick="addCategory()">Add Category</button>
+        </div>
+        <div id="banner_slider" class="content-section hidden">
+            <h1>Banner Slider</h1>
+            <!-- Content for banner_slider -->
+        </div>
+        <!-- Repeat similar sections for other menu items -->
+        <div id="stores" class="content-section hidden">
+            <h1>Stores</h1>
+            <!-- Content for stores -->
+        </div>
+        <div id="strip_banner" class="content-section hidden">
+            <h1>Strip Banner</h1>
+            <!-- Content for strip_banner -->
+        </div>
+        <div id="electronic" class="content-section hidden">
+            <h1>Electronic</h1>
+            <!-- Content for electronic -->
+        </div>
+        <div id="top_deals" class="content-section hidden">
+            <h1>Top Deals</h1>
+            <!-- Content for top_deals -->
+        </div>
+        <div id="food" class="content-section hidden">
+            <h1>Food</h1>
+            <!-- Content for food -->
+        </div>
+        <div id="mens_wear" class="content-section hidden">
+            <h1>Men's Wear</h1>
+            <!-- Content for mens_wear -->
+        </div>
+        <div id="womens_wear" class="content-section hidden">
+            <h1>Women's Wear</h1>
+            <!-- Content for womens_wear -->
+        </div>
+        <div id="smartphone" class="content-section hidden">
+            <h1>Smartphone</h1>
+            <!-- Content for smartphone -->
+        </div>
+        <div id="app_setting" class="content-section hidden">
+            <h1>App Settings</h1>
+            <!-- Content for app_setting -->
+        </div>
+        <div id="ad_setting" class="content-section hidden">
+            <h1>Ad Settings</h1>
+            <!-- Content for ad_setting -->
+        </div>
+        <button onclick="viewJSON()">View JSON</button>
+        <div id="jsonContainer" class="hidden">
+            <h3>JSON Output</h3>
+            <pre id="jsonOutput"></pre>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+
+</html>
