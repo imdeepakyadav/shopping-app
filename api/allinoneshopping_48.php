@@ -252,7 +252,7 @@
       "topdeal_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/top_deals/mobile-phones.jpg",
       "topdeal_name": "Mobile & Accessories",
       "topdeal_url": "https://fktr.in/7rdr7x3",
-      "topdeal_desc": "Offer up to 30% Discount",
+      "topdeal_desc": "Offer Up To 40% Discount",
       "open_in": "webview"
     }
   ],
