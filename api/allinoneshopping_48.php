@@ -228,7 +228,7 @@
   ],
   "top_deals": [
     {
-      "topdeal_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/top_deals/women-ethinc-wear.jpg",
+      "topdeal_image": "https://imdeepakyadav.github.io/shopping-apps/uploaded/top_deals/womens-ethinc-wear.jpg",
       "topdeal_name": " Women's Ethnic Sets",
       "topdeal_url": "https://fktr.in/8Ug3Cyt",
       "topdeal_desc": "Clearance Sale - Upto 40% Off",
